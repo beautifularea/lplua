@@ -1,6 +1,6 @@
 #include <iostream>  
 #include <string>
-   
+//or #include <lua.hpp>
 extern "C"  
 {  
     #include <lua.h>
